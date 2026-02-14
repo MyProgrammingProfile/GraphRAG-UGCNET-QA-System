@@ -1,32 +1,38 @@
 # GraphRAG-UGCNET-QA-System
-Graph RAG based syllabus-aligned QA system using Neo4j and LLM.
-# Graph RAG Based Educational QA System
 
-## Overview
-This project implements a Graph Retrieval-Augmented Generation (Graph RAG) system aligned to UGC NET syllabus.
+A Graph Retrieval-Augmented Generation system built for syllabus-aligned question answering in the UGC NET exam domain.
 
-## Architecture
-- Baseline RAG (FAISS + HuggingFace embeddings)
-- Neo4j Knowledge Graph
-- Cross-unit semantic bridges
-- LLM-based answer generation
+---
 
-## Tech Stack
-- Python
-- Neo4j
-- LangChain
-- FAISS
-- HuggingFace Embeddings
-- OpenAI / LLM API
+## 📌 Project Overview
 
-## How to Run
-1. Install requirements
-2. Configure Neo4j
-3. Run ingestion script
-4. Run QA interface
+This project implements a hybrid **Graph RAG architecture** combining:
 
-## Key Features
-- Syllabus-aligned concept linking
-- Graph traversal retrieval
-- Improved contextual consistency
+✔ Neo4j knowledge graph  
+✔ Embedding-based retrieval  
+✔ Language model for answer generation
+
+The system transforms unstructured corpus text into structured concept graphs, enabling more accurate domain-aware question answering.
+
+---
+
+## 🧠 Architecture
+
+The major components of the system are:
+
+1. **Data Ingestion**  
+   Converts syllabus texts and review articles into Neo4j graph format.
+
+2. **Graph Engine**  
+   Constructs entities, relations and bridges across syllabus units.
+
+3. **Embeddings & Retrieval**  
+   Uses FAISS and embedding models for semantic similarity.
+
+4. **Answer Generation**  
+   Combines retrieval results with an LLM (e.g., OpenAI) to produce answers.
+
+---
+
+## 📂 Repository Structure
 
