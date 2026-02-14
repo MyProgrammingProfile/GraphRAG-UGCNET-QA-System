@@ -1,0 +1,28 @@
+{
+  "UNIT_III": {
+    "name": "Cell Division and Cell Cycle",
+    "entity_types": [
+      "Process",
+      "Phase",
+      "Protein",
+      "Checkpoint",
+      "Structure",
+      "Outcome"
+    ],
+    "concepts": [ {
+    "label": "Cell cycle",
+    "entity_type": "Process",
+    "description": "Ordered series of events that lead to cell growth and division"
+  },
+  {
+    "label": "Spindle assembly checkpoint",
+    "entity_type": "Checkpoint",
+    "description": "Checkpoint that ensures all chromosomes are properly attached to the spindle before anaphase"
+  },
+  {
+    "label": "Aneuploidy",
+    "entity_type": "Outcome",
+    "description": "Abnormal number of chromosomes caused by errors in chromosome segregation"
+  }]
+  }
+}

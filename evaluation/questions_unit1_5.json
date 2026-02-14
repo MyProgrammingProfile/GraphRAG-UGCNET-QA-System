@@ -1,0 +1,16 @@
+[
+  {
+    "id": "Q1",
+    "unit": "UNIT_III",
+    "question": "Failure of spindle assembly checkpoint leads to?",
+    "expected_answer": "Aneuploidy",
+    "question_type": "causal"
+  },
+  {
+    "id": "Q2",
+    "unit": "UNIT_III",
+    "question": "How does spindle assembly checkpoint prevent aneuploidy?",
+    "expected_answer": "Ensures proper kinetochore attachment before anaphase.",
+    "question_type": "why"
+  }
+]

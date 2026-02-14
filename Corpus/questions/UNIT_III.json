@@ -1,0 +1,26 @@
+[
+  {
+    "question_id": "UGCNET_2019_Q45",
+    "question": "Failure of spindle assembly checkpoint leads to",
+    "options": [
+      "Polyploidy",
+      "Aneuploidy",
+      "Apoptosis",
+      "Differentiation"
+    ],
+    "correct_option": "Aneuploidy",
+    "difficulty": "Moderate"
+  },
+  {
+    "question_id": "CSIR_2021_Q12",
+    "question": "Which phase of the cell cycle involves DNA synthesis?",
+    "options": [
+      "G1 phase",
+      "S phase",
+      "G2 phase",
+      "M phase"
+    ],
+    "correct_option": "S phase",
+    "difficulty": "Easy"
+  }
+]

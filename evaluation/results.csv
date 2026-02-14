@@ -1,0 +1,3 @@
+question_id,question,expected_answer,baseline_correct,graph_correct,reasoning_present
+Q1,Failure of spindle assembly checkpoint leads to?,Aneuploidy,False,True,True
+Q2,How does spindle assembly checkpoint prevent aneuploidy?,Ensures proper kinetochore attachment before anaphase.,False,False,True

@@ -1,0 +1,16 @@
+{
+  "UNIT_III": {
+    "relations": [
+      {
+        "source": "Spindle assembly checkpoint",
+        "relation": "prevents",
+        "target": "Aneuploidy"
+      },
+      {
+        "source": "Spindle assembly checkpoint",
+        "relation": "regulates",
+        "target": "Cell cycle"
+      }
+    ]
+  }
+}

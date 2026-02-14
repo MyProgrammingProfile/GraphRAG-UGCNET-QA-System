@@ -1,0 +1,649 @@
+a.a.t.
+a.b.
+abiotic
+abiotic origin
+abstract
+accelerated profile
+accelerating
+acceleration
+accepted
+accumulation
+acta
+acting allosterically
+active site
+active sites
+activities
+activity
+adaptation
+adaptive cycles
+adaptive evolution
+aesthetic
+alanine
+alanine racemase
+alignments
+alkaline phosphatase
+allen
+allen k.n.
+allosterically regulated protein
+allostery
+alternative
+alternative solutions
+ambiguous communication
+amino acid
+amino acid residues
+amrein b.a.
+analogous reactions
+analysis
+ancestor
+angstrom resolution
+annotation
+annotations
+arabidopsis
+archean
+arts
+assignment
+attributes
+author information
+authors
+automated
+automatically search
+b.g.
+babbitt p.c.
+babbitt p.c. evolution
+babbitt p.c. evolutionarily
+babbitt p.c. new
+babbitt p.c., almo s.c. divergent evolution
+bacteria
+bandwidth
+barradas
+bidirectional
+binding
+biocatalysts
+biochemical activity
+biochemical reactions
+biochemistry
+biochemists
+biochim
+bioinformatics
+biol
+biological
+biological function
+biological process
+biology
+biophys
+biosynthesis
+biotechnol
+bond changes
+boost
+boyce
+brain
+breast muscle
+buried pocket
+c. what
+c.a.
+capability
+captures
+catalysis
+catalysis of life
+catalysts
+catalytic
+catalytic activities
+catalytic function
+catalytic mechanism
+catalytic mechanisms
+catalytic promiscuity
+catalytic reactions
+catalyze
+catalyzed
+catalyzed reaction
+catalyzed reactions
+categorization
+cath
+cell compartment
+cell type
+cell types
+cellular concentration
+cellular metabolism
+cerebellum
+changed
+changes
+changing
+characterization
+chemical attributes
+chemical bond
+chemical bonds
+chemical conditions
+chemical group
+chemical reaction
+chemical reactions
+chemical transformation
+chemical variations
+chemistries
+chemistry
+chemistry-driven
+chosen
+chothia
+christin p.-a.
+circos
+circular
+citric acid cycle
+classes
+classification
+classifying
+code
+cofactor
+coggill p.c.
+colleagues
+colored
+combination
+comparative genomics
+compare
+compares reactions
+comparison
+competition
+complex
+complexes
+composite domains
+compounds
+comprehensive
+computational approaches
+conclusions
+conformational changes
+confusing
+conservation
+consistent manner
+consortium update
+constraints
+context
+contributions
+control
+control diverse
+convergent evolution
+conversion
+core
+criteria
+crystallization
+crystallographic structures
+cuesta s.m.
+cuff a.l.
+cytosol
+d-amino acid oxidase
+d-glucose
+d., pazos f. gene ontology functional
+d.e.
+data
+data storage
+database
+databases
+dawson n.l.
+days
+definitions
+deleterious
+demise
+description
+details
+development
+diagonal
+diagrams
+diastase
+differential effects
+difficult
+directed
+discovery
+diseases
+dissect
+dissemination
+distribution
+divergence
+diversity
+domain
+domain architecture
+domain composition
+domain superfamilies
+domain-centric
+domains
+drugs
+dyes
+dynamic
+dynamics
+early
+earth cooled down
+ec classes
+ec exchange matrix
+ec number
+ec numbers
+ec-blast
+economy
+ecx->ecy
+ecy->ecx
+editors
+egg-white lysozyme
+elaboration
+embl
+embo
+emergence
+endowing
+energy
+engine
+enolase
+ensembl
+ensembl genomes
+environment
+enzymatic sets
+enzyme
+enzyme catalysis
+enzyme chemistry
+enzyme commission
+enzyme design
+enzyme evolution
+enzyme family
+enzyme function
+enzyme functionalization
+enzyme functions
+enzyme isolation
+enzyme promiscuity
+enzyme reactions
+enzyme superfamilies
+enzyme urease
+enzymes
+enzymologists
+enzymology
+era
+essence
+european molecular biology laboratory
+evolution
+evolutionary
+evolutionary innovation
+evolutionary processes
+evolutionary related
+evolutionary routes
+evolvability
+evolves
+exceptional
+exchange
+exchanges
+expansion
+experimental research
+experts
+families
+farelli j.d.
+finn r.d.
+fitness
+fixed
+flavin-dependent oxidoreductase
+flexibility
+fold polarity
+formed
+fourier synthesis
+fraction
+framework
+frequency
+function
+functional
+functional annotation
+functional innovation
+functional outcome
+functional site
+functionality
+functions
+funding
+funfams
+furnham
+gaidukov l.
+gain-of-function mutations
+galperin
+gene duplication
+gene expression
+gene ontology (go
+gene ontology consortium gene ontology
+gene orthology
+genet
+genetic diversity
+genetic mechanisms
+genome
+genome-wide
+genomics
+geometric
+gerlt
+glycolysis
+glycolysis pathway
+glycosyl moiety
+google scholar]
+graphics
+grouped
+groups
+habitat
+harness
+hen
+hexokinase turns
+hidden
+hidden markov models
+higher
+hmm
+human
+hydrolase
+hydrolase function
+hydrolases
+hydrolysis
+identified
+incidence
+increase
+individual
+inducing
+industriels
+information
+initiative
+innovation
+innovation-amplification-divergence
+interactions
+intermediates
+international union
+interpretation
+interpretations
+investigate
+investigated
+isolation
+isomerase
+isomerases
+isomerization
+isomers
+iubmb
+ivet bahar
+j.a.
+j.e.
+janet m thornton
+kamerlin s.c.l.
+kinetics
+koonin e.v.
+koonin e.v. functional
+korendovych i.v. design
+krebs
+laboratory experiments
+landmarks
+landscapes
+large-scale in silico
+les
+level
+license information
+life
+ligases
+literature
+living environment
+living organisms
+living worlds
+location
+lowest
+lyases
+lysozyme
+m. revealing
+m.a.
+m.v.
+m.y.
+mapping
+marra m.a. circos
+matrix
+mechanism
+mechanisms
+mechanistic
+medicine
+metabolic
+metabolic pathways
+metabolic reactions
+metabolism
+metal
+metal-catalyzed
+metallo-β-lactamase
+metalloenzymes
+methods
+methyl
+model
+modeling
+modulate
+modulated
+molecular biology
+molecular function
+molecular level
+multidomain
+multifunctional
+multifunctional enzyme
+multiple reactions
+multiple research studies
+multiple sequence
+mutation
+mutations
+n.e.
+n.l.
+nadph dehydrogenase
+nadph diaphorase
+nadph-diaphorase cells
+name
+names
+natural
+nature
+navigate
+nc-iubmb
+neo-
+network models
+networks
+neutral
+nomenclature
+nomenclature committee
+non-enzymatic
+non-enzymatic reactions
+non-homologous isofunctional enzymes
+nonenzymatic
+nonenzymatic precursors
+normal
+nucleic acids
+nucleoside triphosphate molecule
+o.v.
+ocean
+off-diagonal
+old enzymes
+old yellow enzyme
+operate
+opportunities
+orengo
+organelle
+organism
+organisms
+orthologs
+overview
+overview analysis
+oxidation
+oxidoreductases
+p.c.
+p.f.
+palsson b.ø.
+pathway-like reactions
+patterns
+pentose
+perspective
+pesticides
+pfam protein families
+phenomenon
+phenotypes
+phosphate pathway
+phylogenetic
+phylogenetic analysis
+phylogenetic trees
+phys
+physicochemical properties
+physiological levels
+physiology
+pigeon
+pioneering studies
+plasticity
+plausible
+plos
+pmc free article
+pockets
+point mutations
+population
+potential
+preferences
+prenatal hypoxic-ischemic
+preventing
+prigione a.
+primary activity
+primordial
+problematic
+products
+profile
+promiscuity
+promiscuous
+promiscuous activities
+promiscuous enzymes
+promiscuous protein
+protein data
+protein domains
+protein fold
+protein function
+protein functions
+protein sequence
+protein sequences
+protein structure
+protein superfamilies
+protein universe
+protein-coding genes
+proteins
+proteome
+protoenzymes
+pubmed
+purification
+quantitative
+quantitatively
+racemase
+reaction
+reaction center
+reaction centers
+reaction space
+reactions
+reactivity
+realization
+realized
+recommendations
+recruitment
+reduce
+references
+regulation
+regulatory regions
+relationships
+reproduction
+researchers
+residues
+resistance
+resource
+resources
+return of metabolism
+revealed
+ribbons
+ribonuclease
+rubisco
+réactions
+s. history
+s.a.
+s.d.
+salanoubat
+sarma v.r.
+scaling
+scattered
+schramm g.,
+scientific discipline
+scientific schools
+scientists
+searches
+segregate
+sequence
+sequence relatives
+sequences
+session
+sherlock g.
+shlomi t. reconstruction
+sillitoe i.
+smith
+speaking
+specialization
+species
+specific
+specificity
+spontaneous mutation
+stability
+stability-activity
+stability-function tradeoffs
+stabilized
+staines
+starch
+sternberg m.j.e.
+structural
+structural change
+structural clusters
+structural domain
+structural elements
+structural information
+structural solutions
+structurally
+structure
+structure relationships
+structure similarity
+structures
+studies
+sub-subclasses
+subcellular compartmentalization
+subclasses
+subfunctionalization
+substrate
+substrates
+substructures
+sugars
+superfamilies
+superfamily
+survival
+syed
+synergy
+synthesis
+syst
+system
+systematic analysis
+systematically
+systems biology
+szent-györgyi cycle
+tab
+tawfik d.s.
+taxonomic
+technology
+temperature
+temperatures
+thermal
+thornton j.m.
+thornton j.m. funtree
+three-dimensional
+time
+tissue levels
+tissue-specificity
+tool
+tools
+transferases
+transferred
+trivial
+turchyn a.v.
+undesirable products
+unification of
+uniprot
+uniprotkb
+universal protein resource
+usa
+variations
+vast amounts
+version
+versèes
+wass m.n.
+wilson i.a.
+witnessed
+wolan d.w.
+wrap
+x-ray diffraction techniques
+yellow enzyme
+yera e.r.
+zoolog
+• article

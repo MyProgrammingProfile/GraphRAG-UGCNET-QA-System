@@ -1,0 +1,350 @@
+(b) insulin signaling | regulates | mitochondrial metabolism (mitochondrial biogenesis, fusion, and fission, mitophagy).
+10.1 cell cycle
+cell division | is_a | very important process in all living organisms.
+10.5 significance of meiosis
+meiosis is the mechanism by which conservation of specific
+chromosome number of each species | is_a | chieved across
+generations in sexually reproducing organisms, even though the
+process, per se, paradoxically, results in reduction of chromosome
+number by half.
+14.4.1 transport of oxygen
+haemoglobin | is_a | red coloured iron containing pigment present in the
+rbcs.
+14.6 disorders of respiratory system
+asthma | is_a | difficulty in breathing causing wheezing due to inflammation
+of bronchi and bronchioles.
+2013;39(5):525–533. doi: 10.1016/j.ctrv.2012.10.007. [doi] [pubmed] [google scholar]
+78.stath | is_a | , oza a. targeting wee1-like protein kinase to treat cancer.
+8.1 what | is_a | cell?
+unicellular organisms are capable of (i) independent existence and
+(ii) performing the essential functions of life.
+8.5.9 centrosome and centrioles
+centrosome | is_a | n organelle usually containing two cylindrical structures
+called centrioles.
+[doi] [pmc free article] [pubmed] [google scholar]
+•	25.keller m.a., turchyn a.v., ralser m. non-enzymatic glycolys | is_a | nd pentose phosphate pathway-like reactions in a plausible archean ocean.
+a three-dimensional fourier synthes | is_a | t 2 angstrom resolution.
+akt activates lipid synthesis through phosphorylation of tsc and foxo1, which activates mtorc1 and srebp1c and the lipogenic gene program since srebp1c | is_a | transcription factor essential for the synthesis of fatty acids, triglycerides and cholesterol (figure 1a) [43,44].
+all the evidence underpins the critical role of ers in maintaining metabolic homeostas | is_a | nd potentiating derangement of estrogen signaling contributes to metabolic diseases.
+although cell growth (in terms of cytoplasmic increase) | is_a | continuous process, dna synthesis occurs only during one specific
+stage in the cell cycle.
+although chk1 is conserved, the major effector | is_a | n unrelated kinase known as rad53 [48, 49].
+an active site of an
+enzyme | is_a | crevice or pocket into which the substrate fits.
+another physical process | is_a | change in state
+of matter: when ice melts into water, or when water becomes a vapour.
+as cdc2 is inactive, so | is_a | pc, and hence, cells cannot enter anaphase.
+as insulin insensitive tissue, brain responds to insulin signaling and | regulates | cell plasticity and memory.
+as there
+are 20 types of amino acids (e.g., alanine, cysteine,
+proline, tryptophan, lysine, etc.), a protein | is_a | heteropolymer and not a homopolymer.
+at the same time, insulin signaling ax | is_a | ffects mediators of glucose utilization (glut, gsk3), mitochondrial function (foxo1), and energy metabolism (mtor, ampk) to support hippocampal integrity.
+both diabetic conditions will lead to dysfunctional insulin signaling, such as irs→pi3k→foxo1, which would lead to metabolic dysfunctions and affect protein catabolism, lipolys | is_a | nd the formation of ketone bodies [76], and cause metabolic syndrome [77,78].
+carbon dioxide
+(co2
+) which is harmful | is_a | lso released during the above catabolic
+reactions.
+cdc20 | is_a | lso regulated by the mitotic checkpoint kinase bub1 in yeast (budding uninhibited by benomyl) and its cousin bub1r in mammals.
+cellulose | is_a | homopolymer.
+chk1 | is_a | ctivated by all known forms of dna damage, though this is more efficient in s- and g2-phase than in g1, and restricted to post-replicative lesions [15, 36, 43].
+chk1 | is_a | n essential kinase that is regulated by atr and required for the g(2)/m dna damage checkpoint.
+chromosome loss and rearrangement | is_a | rapid means to tumor suppressor loss and oncogene activation.
+clearly, by ensuring the ph-dependent control of pqh2 oxidation at the level of cyt b6f, pgr5 | prevents | electrons from flowing freely from psii to psi, which would over-reduce the electron carriers on the acceptor side of psi.
+control of the g1 cell size checkpoint has been studied most extensively in budding yeast, where the cyclin cln3, which activates start, | regulates | cell size [28, 29].
+crossing over | is_a | lso an enzyme-mediated process and the enzyme involved is called
+recombinase.
+cytochrome b6f and flexibility of thylakoid electron transport
+the cyt b6f | is_a | main component of photosynthetic etc, which mediates electron transfer by oxidizing pqh2 and reducing the plastocyanin during let and cet pathways.
+despite less erα protein expression in metabolically active tissues than female mice, male mice nonetheless need erα for proper immunometabolic function, and erα signaling is required for exercise-induced protection of hepatic steatos | is_a | s loss of erα abolished the beneficial effects of physical exercise on immunometabolic function [163].
+did you note that the calvin pathway | occurs_in | all the mesophyll
+cells of the c3 plants?
+doi: 10.1126/science.281.5374.272. [see comments] [doi] [pubmed] [google scholar]
+50.cohen-fix o, koshland d. the anaphase inhibitor of saccharomyces cerevisiae pds1p | is_a | target of the dna damage checkpoint pathway.
+during this phase the chromosomes are
+fully condensed and the meiotic spindle | is_a | ssembled to prepare the
+homologous chromosomes for separation.
+each
+of the peripheral fibril | is_a | triplet.the adjacent triplets are also linked.
+each mitochondrion | is_a | double membrane-bound structure with the outer membrane and the inner
+membrane dividing its lumen distinctly into two aqueous compartments,
+i.e., the outer compartment and the inner compartment.
+each protein | is_a | polymer of amino acids.
+early evidence for these checkpoints came from observations that the size of new daughter cells after mitos | is_a | ffects cell cycle progression: large daughter cells speed up progression through g1 and/or g2, and small daughter cells delay exit from these growth phases [26, 27].
+emphysema | is_a | chronic disorder in which alveolar walls are damaged
+due to which respiratory surface is decreased.
+enzyme function | is_a | ssigned on a whole-sequence basis without associating specific functions to the composite domains (51,52).
+enzymes are now named and identified systematically with an ec number; this code | is_a | four-level description that is used to classify enzymes depending on the overall chemical transformation of substrates into products (13).
+erα interacts with foxos through the phosphorylation of mtorc2 on akt (ser473) and akt (thr308) on foxos, at the same time, foxos transcriptionally regulate sestrins, which | regulates | mtor signaling.
+erα mediates mitochondrial dynamics and mitophagy, maintaining metabolic homeostas | is_a | nd insulin sensitivity [23,142].
+estrogen deficiency in mice delayed myoregeneration in injured muscles and estrogen administration under ovariectomized conditions rescued delayed myoregeneration, suggesting that estrogen | is_a | n essential factor in the myoregeneration process via its receptor erα and erβ [161].
+estrogen is largely generated in the ovary in premenopausal women, while adipose tissue is the primary site for peripheral estrogen synthes | is_a | nd metabolism [121,122].
+estrogen is mainly synthesized and secreted by the ovaries and placenta, which | regulates | the development of the reproductive system and nonreproductive tissue (e.g., adipose tissue, liver, muscle, and brain) function and homeostasis [16].
+estrogen signaling
+estrogen and its receptors
+estrogen | is_a | sex hormone that is involved in the development and regulation of the female reproductive system as well as secondary sex characteristics [119,120].
+estrogens affect female skeletal muscle strength through mediating key proteins, protein synthes | is_a | nd degradation, satellite cell function, apoptosis, and inflammation [126,127].
+finally, functional annotations are retrieved from protein data resources and the frequency of all possible exchanges between different ec numbers within each superfamily | is_a | dded to an ec exchange matrix.
+for
+example, in peroxidase and catalase, which catalyze the breakdown of
+hydrogen peroxide to water and oxygen, haem is the prosthetic group
+and it | is_a | part of the active site of the enzyme.
+for
+example, in peroxidase and catalase, which catalyze the breakdown of
+hydrogen peroxide to water and oxygen, haem is the prosthetic group
+and it is a | part_of | the active site of the enzyme.
+for example, alanine racemase | is_a | n isomerase (ec 5), in particular a racemase (ec 5.1) acting on the amino acid (ec 5.1.1) alanine (ec 5.1.1.1).
+for example, cellulose | is_a | polymeric polysaccharide consisting of only one type of monosaccharide
+i.e., glucose.
+for example, we have learned a great deal about the targeting and translocation of many proteins into the er. however, aviram and schuldiner highlight recent genomic studies, which reveal novel but still poorly understood mechanisms that may target and translocate a significant number of proteins into the er. similarly, wong et al. summarize recent work showing that the er, despite being composed of one continuous membrane, | is_a | ctually divided into more domains than had been previously appreciated.
+for example, women have more body fat than males; however, the pear-shaped body fat distribution of many women | is_a | ssociated with decreased cardiometabolic risk, in contrast with the detrimental metabolic effects of apple-shaped obesity characteristic of men [145].
+for example:
+ba(oh)2 + h2so4 ® baso4 + 2h2o | is_a | n inorganic chemical reaction.
+for nucleic acids, the building block | is_a | nucleotide.
+from figure 11.3a can you determine the
+wavelength (colour of light) at which chlorophyll
+a shows the maximum absorption? does it
+show another absorption peak at any other
+wavelengths too? if yes, which one?
+now look at figure 11.3b showing the
+wavelengths at which maximum photosynthesis | occurs_in | a plant. can you see that the
+wavelengths at which there is maximum
+absorption by chlorophyll a, i.e., in the blue and
+the red regions, also shows higher rate of
+photosynthesis.
+further, another kinase known as dun1 | is_a | ctivated in budding yeast [52], which controls transcriptional responses to dna damage including activation of ribonucleotide reductase, the enzyme required for dntp synthesis.
+he also concluded, based on his studies on
+plant tissues, that the presence of cell wall | is_a | unique character of
+the plant cells.
+hence he showed that it is only the green | part_of | the plants that
+could release oxygen.
+hence, we can conclude that
+chlorophyll a is the chief pigment associated
+with photosynthesis. but by looking at figure
+11.3c can you say that there | is_a | complete oneto-
+one overlap between the absorption
+spectrum of chlorophyll a and the action
+spectrum of photosynthesis?
+hence, within the chloroplast, protons in the stroma decrease in
+number, while in the lumen there | is_a | ccumulation of protons.
+hettema et al. summarize recent progress in our understanding of the role of the er in de novo peroxisome biogenes | is_a | s well as the growth and division of pre-existing peroxisomes.
+however, different species and cell types vary widely in the location of these checkpoints within the cell cycle, and thus in how the cell cycle | is_a | ffected in response to change in cell size.
+however, insulin | regulates | brain functions and neurodegenerative diseases across different regions and cross-talk with other tissues, such as liver, to fine-tune whole body function [93].
+however, p53 can also direct cells into apoptos | is_a | nd/or senescence, and so the physiological consequence of p53 in cancer is both at the level of cancer etiology and the ability for therapies to kill cells [25].
+however, this | is_a | bottleneck of rapid cell cycling, and the s–m dependency is critical for genome integrity.
+however, whether it | is_a | n exothermic or spontaneous reaction or an
+endothermic or energy requiring reaction, the ‘s’ has to go through a much
+higher energy state or transition state.
+if a phosphate group | is_a | lso found
+esterified to the sugar they are called nucleotides.
+if the source of the blockade is dna damage, then the chk1 pathway | is_a | ctivated as described above.
+in
+eukaryotic cells there | is_a | n extensive compartmentalisation of cytoplasm
+through the presence of membrane bound organelles.
+in addition, gsk3, as another substrate of pi3k-akt, has been elucidated in erα-akt-gsk3 signaling pathway, in which estrogen | prevents | tau phosphorylation, acting as a neuroprotective agent against the neurodegeneration of the female brain [190].
+in addition, sirt1 promotes the expression of rictor, a component of mtorc2, which phosphorylates akt at ser473, loss of sirt1 in the liver confers to decreased expression of rictor and decreased phosphorylation of akt and constant activation of foxo1 [177], which is opposite of the finding that liver specific loss of foxo1 impairs fasting- and camp-induced glycogenolys | is_a | nd gluconeogenesis [178].
+in an animal cell,
+this | is_a | chieved by the appearance of a furrow in the plasma
+membrane.
+in contrast to mitosis, meiosis | occurs_in | the diploid cells, which are destined to
+form gametes.
+in higher organisms, the transcription factor p53 | is_a | critical component of dna damage checkpoints [25], particularly in g1 phase.
+in order to maintain ploidy, there | is_a | n equally important dependency relationship to ensure one round of replication per cell cycle.
+in some organisms karyokinesis is not
+followed by cytokines | is_a | s a result of which multinucleate
+condition arises leading to the formation of syncytium (e.g.,
+liquid endosperm in coconut).
+in th | is_a | rticle, we present an updated view of the signaling pathways of insulin and estrogen, and how they interact in the regulation of metabolic homeostasis.
+in the carbon fixation cycle, co2 | is_a | dded by the enzyme, rubisco, to a 5-
+carbon compound rubp that is converted to 2 molecules of 3-carbon pga.
+in the light reaction the
+light energy | is_a | bsorbed by the pigments present in the antenna, and funnelled to
+special chlorophyll a molecules called reaction centre chlorophylls.
+in these plants the first product of co2 fixation that takes place in the mesophyll, | is_a | 4-carbon compound.
+indeed, leaves infiltrated with low concentrations of nigericin, which | prevents | thylakoid lumen acidification, and exposed to high light intensities for 20 min resulted in photoinhibition of almost 70% of psi and only 30% of psii complexes.
+indeed, the cell cycle arrest function of p53 seems to be a later adopted function, as drosophila p53 | regulates | apoptosis, but not cell cycle progression [56].
+inside
+each cell | is_a | dense membrane bound structure called nucleus.
+inspiration
+can occur if the pressure within the lungs (intra-pulmonary pressure) is
+less than the atmospheric pressure, i.e., there | is_a | negative pressure in
+the lungs with respect to atmospheric pressure.
+insulin in the regulation of macronutrient metabolism
+the homeostasis of macronutrients, such as gluconeogenesis, glycolysis, protein synthes | is_a | nd breakdown, lipogenesis, and lipolysis, is regulated by insulin.
+insulin in the regulation of mitochondria
+mitochondrion | is_a | n organelle that primes biochemical processes of respiration and energy production [55–57].
+insulin signaling | regulates | nutrient and mitochondrial metabolism by targeting the irs-pi3k-akt-foxos signaling cascade and pgc1α.
+insulin therapy for type 2 diabetes enhanced skeletal muscle index (smi) and protected against sarcopenia, a loss of skeletal muscle mass and strength that occurs with age and | is_a | primary cause of disability and mobility limits [91].
+inulin | is_a | polymer of fructose.
+it is essential that spindle attachment | occurs_in | a bi-oriented fashion such that sister chromatids are under tension at metaphase, and attached to both poles of the spindle.
+larynx | is_a | cartilaginous box which helps in sound
+production and hence called the sound box.
+let us now see how the calvin pathway operates and where the sugar is
+synthesised. let us at the outset understand very clearly that the calvin
+pathway | occurs_in | all photosynthetic plants; it does not matter whether
+they have c3 or c4 (or any other) pathways (figure 11.8).
+mammalian cell fusion: studies on the regulation of dna synthes | is_a | nd mitosis.
+mdc1 | is_a | mediator of the mammalian dna damage checkpoint.
+mitosis | is_a | lso divided into four stages namely
+prophase, metaphase, anaphase and telophase.
+mtorc2 could phosphorylates akt and activated akt phosphorylates foxos and | regulates | downstream pathways.
+muscle specific erα knockout impaired glucose homeostas | is_a | nd increased adiposity via mediating protein kinase a (pka) dependent mitochondrial dynamic and mitophagy (figure 2a) [24].
+nafld | is_a | ssociated with obesity and is directly intertwined with insulin resistance and t2dm [109].
+obesity | is_a | ssociated with insulin resistance.
+on
+testing for the presence of starch later in the two
+parts of the leaf, you must have found that the
+exposed | part_of | the leaf tested positive for starch
+while the portion that was in the tube, tested
+negative.
+on testing these leaves for the presence
+of starch it was clear that photosynthesis occurred only in the green parts
+of the leaves in the presence of light another experiment you may have carried out
+where a | part_of | a leaf is enclosed in a test tube
+containing some koh soaked cotton (which
+absorbs co2), while the other half is exposed to air.
+on the other hand, fasting suppressed canonical irs-pi3k-pdk1-akt insulin signaling and deactivated akt-reduced phosphorylation of foxo1, which leads to nuclear translocation of foxo1, and foxo1 up | regulates | pepck and g6pase, by coordinating with a complex of camp response element-binding protein (creb) and transcription coactivator 2 (crtc2), and creb-binding protein (cbp) [10].
+pak2 is required for insulin-stimulated glucose uptake in glycolytic extensor digitorum longus muscle, but pak1 is not required for whole-body glucose homeostas | is_a | nd insulin-stimulated muscle glucose uptake [50].
+pgr5-dependent cet and photosynthesis control
+pgr5 (proton gradient regulation 5)31 together with pgrl1 (pgr5-like photosynthetic phenotype 1)32 form the protein complex that mediates cyclic electron transport around psi, accepting electrons from ferredoxin (fd) and reducing the pq pool, thus acting as an fd-pq reductase (fqr).33 according to the commonly accepted view, the pgr5-pgrl1 dependent cet | is_a | ssumed to sustain the ratio between atp and nadph (atp/nadph = 3/2), required for co2 fixation in the calvin-benson-bassham cycle.34-36 however, the detailed characterization of pgr5 and pgrl1 mutants in arabidopsis thaliana (hereafter: arabidopsis),31,32,34 and more recently in rice37,38 and chlamydomonas reinhardtii (hereafter: chlamydomonas),39-42 has allowed to associate novel functions to cet.
+photosynthes | is_a | nd, in particular, the electron transport chain (etc) is however uniquely sensitive to environmental conditions.
+plant physiol 2011; 155:86-92; pmid:21084435; http://dx.doi.org/ 10.1104/pp.110.168831 [doi] [pmc free article] [pubmed] [google scholar]
+58.long sp, marshall-colon a, zhu xg. meeting the global food demand of the future by engineering crop photosynthes | is_a | nd yield potential.
+po2 | is_a | major factor which could affect this binding.
+protein turnover, proteolysis, and apoptos | is_a | re some of the processes influenced by estrogens that affect muscle mass [133–135].
+recent studies indicate that administration of estrogen improves insulin sensitivity and glucose tolerance in both male and ovx female mice [28], while this improvement | is_a | bsent in liver-specific foxo1 knockout (l-f1ko) mice, demonstrating the critical role of estrogen-foxo1 axis in the protective effects.
+rer is frequently observed in the cells actively
+involved in protein synthes | is_a | nd secretion.
+shaping membranes is critical for organelle biogenes | is_a | nd many cellular membranes are highly curved.
+similarly, hydrolysis of starch into
+glucose | is_a | n organic chemical reaction.
+since
+then co2 assimilation during photosynthesis was said to be of two main
+types: those plants in which the first product of co2 fixation | is_a | c3 acid
+(pga), i.e., the c3 pathway, and those in which the first product was a c4
+acid (oaa), i.e., the c4 pathway.
+since the functions of the mitochondria,
+chloroplast and peroxisomes are not coordinated
+with the above components, these are not
+considered as | part_of | the endomembrane system.
+since the number of
+chromosomes in the parent and progeny cells is the same, it | is_a | lso called as
+equational division.
+some studies have concluded that cds1 also | regulates | cell cycle progression [65, 66].
+starch | is_a | variant of this but
+present as a store house of energy in plant tissues.
+such
+a transport | is_a | n energy dependent process, in which atp is utilised and
+is called active transport, e.g., na+/k+ pump.
+summary
+
+although there | is_a | bewildering diversity of living organisms, their chemical
+composition and metabolic reactions appear to be remarkably similar.
+the activity of an enzyme | is_a | lso sensitive to the presence of specific
+chemicals that bind to the enzyme.
+the breakdown
+of the protons gradient due to movement through the f0 | part_of | the atpase enzyme
+releases enough energy for synthesis of atp.
+the c | is_a | nd the trans faces of the organelle are entirely different, but
+interconnected.
+the catalytic subunits are in molar excess, but lack activity until bound by their cognate cyclin subunits, which are tightly regulated at both the levels of synthes | is_a | nd ubiquitin-dependent proteolysis.
+the central | part_of | the proximal region of the centriole is also proteinaceous
+and called the hub, which is connected with tubules of the peripheral
+triplets by radial spokes made of protein.
+the central part of the proximal region of the centriole | is_a | lso proteinaceous
+and called the hub, which is connected with tubules of the peripheral
+triplets by radial spokes made of protein.
+the central tubules are connected by bridges and | is_a | lso
+enclosed by a central sheath, which is connected to one of the tubules of
+each peripheral doublets by a radial spoke.
+the evolution of new activity is modulated by stability-function tradeoffs (20,28), and if it provides a selective advantage to the organism in its ability to perform a fundamental biological process such as the competition for resources, will become fixed within a population with beneficial mutations that enhance th | is_a | ctivity gradually strengthening the fitness of the organism.
+the first amino acid | is_a | lso
+called as n-terminal amino acid.
+the fluid nature of the membrane | is_a | lso important from the point of
+view of functions like cell growth, formation of intercellular junctions,
+secretion, endocytosis, cell division etc.
+the g(2) dna damage checkpoint: could th | is_a | ncient regulator be the achilles heel of cancer?
+the golgi body | is_a | membranous organelle
+composed of flattened sacs.
+the green plants make or rather synthesise
+the food they need through photosynthes | is_a | nd are therefore called autotrophs.
+the interphase is divided into three further phases:
+l g1 phase (gap 1)
+l s phase (synthesis)
+l g2 phase (gap 2)
+g1 phase corresponds to the interval between mitos | is_a | nd initiation
+of dna replication.
+the key features
+of meios | is_a | re as follows:
+l meiosis involves two sequential cycles of nuclear and cell division called
+meiosis i and meiosis ii but only a single cycle of dna replication.
+the lungs are situated in the thoracic chamber which | is_a | natomically
+an air-tight chamber.
+the middle lamella | is_a | layer mainly of calcium pectate which holds
+or glues the different neighbouring cells together.
+the onion cell
+which | is_a | typical plant cell, has a distinct cell wall as its outer boundary
+and just within it is the cell membrane.
+the overall chemical reaction is often changed while conserving at least one mechanistic step (38,39), however binding similar substrates while conserving the reaction chemistry | is_a | lso observed (40,41).
+the part starting with the external nostrils up to the terminal
+bronchioles constitute the conducting part whereas the alveoli and their
+ducts form the respiratory or exchange | part_of | the respiratory system.
+the primary co2 acceptor | is_a | 3-carbon molecule phosphoenol
+pyruvate (pep) and is present in the mesophyll cells.
+the production of glucose and triglycerides is elevated in type 2 diabetes and nonalcoholic fatty liver disease (nafld), which was supported by the selective hepatic insulin resistance theory, in which insulin drives de novo lipogenesis (dnl) without suppressing glucose production [83,84], in overweight human, overfeeding saturated fat increased the greatest level of increased intrahepatic triglyceride (ihtg), insulin resistance, and harmful ceramide [85], and overfeeding sugar increased de novo lipogenesis, while overfeeding saturated fat increased lipolys | is_a | nd unsaturated fat decreased lipolysis [85].
+the splitting of
+water | is_a | ssociated with the ps ii; water is split into 2h+, [o] and electrons.
+the stage between the two meiotic divisions is called interkines | is_a | nd is
+generally short lived.
+the whi1+ gene of saccharomyces cerevisiae tethers cell division to cell size and | is_a | cyclin homolog.
+there | is_a | clear
+division of labour within the chloroplast.
+there | is_a | linear relationship
+between incident light and co2 fixation rates at
+low light intensities.
+there | is_a | wide diversity in living organisms in our biosphere. now a
+question that arises in our minds is: are all living organisms made of the
+same chemicals, i.e., elements and compounds? you have learnt in
+chemistry how elemental analysis is performed. if we perform such an
+analysis on a plant tissue, animal tissue or a microbial paste, we obtain a
+list of elements like carbon, hydrogen, oxygen and several others and
+their respective content per unit mass of a living tissue.
+therefore, cataloguing the functional evolution of each individual domain | is_a | complex process, which can lead to multiple different evolutionary routes.
+these are serine/threonine protein kinases that phosphorylate key substrates to promote dna synthes | is_a | nd mitotic progression.
+this | is_a | physical process.
+this | is_a | question that you may reasonably ask.
+this gives the | part_of | the plant a
+yellow, orange or red colour.
+this hypothes | is_a | lso offers an explanation for how cell size and the cell cycle respond to nutritional status.
+this pathway that has
+been named the hatch and slack pathway, | is_a | gain a cyclic process. let
+us study the pathway by listing the steps.
+this states the following:
+if a chemical process | is_a | ffected by more than one factor, then its
+rate will be determined by the factor which is nearest to its minimal
+value: it is the factor which directly affects the process if its quantity is
+changed.
+though for convenience mitosis has been divided
+into four stages of nuclear division (karyokinesis), it is very essential to
+understand that cell division | is_a | progressive process and very clear-cut
+lines cannot be drawn between various stages.
+thus, insulin signaling | regulates | mitochondrial metabolism through targeting foxos-mediated mitochondrial biogenesis, dynamics and mitophagy as well as pgc1α-dependent, foxos-independent mitochondrial biogenesis.
+trachea | is_a | straight tube
+extending up to the mid-thoracic cavity, which divides at the level of
+5th thoracic vertebra into a right and left primary bronchi.
+type 1 diabetes mellitus (t1dm) | is_a | n autoimmune disease in which the immune system destroys insulin-producing β cells [74].
+under extreme temperatures, drought, or rapid changes in light intensities, etc can give rise to the production of different forms of reactive oxygen species (ros), which can damage proteins, membranes and dna.2 the rapid adaptation (on the timescale ranging from seconds to a few minutes) of etc to varying environmental conditions is, therefore, essential for the sustainable development of photosynthetic organisms and their survival under inclement environment conditions.3-5
+
+at the level of etc, the adjustments of electron transport in response to rapid environmental changes are achieved by cooperation of several short-term photoprotective mechanisms, which include: (i) “state transitions,” i.e. optimization of light absorption between psi and psii achieved upon phosphorylation and association of the so-called ‘mobile pool’ of lhcii with either psi or psii6-8; (ii) “alternative electron transport routes,” i.e., redistribution of electron fluxes through different alternative pathways, including cyclic electron transport (cet) mediated by either the nadh dehydrogenase-like (ndh) complex or the prg5-pgrl1 protein complex9-11; (iii) “non photochemical quenching (npq),” i.e. ph-dependent dissipation of excess energy in the lhcii to protect the photosynthetic apparatus against photooxidation12-14; (iv) “photosynthesis control,” i.e., regulation of electron transport by the cyt b6f complex, governed by the ph of thylakoid lumen and stroma.15-18
+
+in this review, we will describe the interconnections and the relative importance of these photoprotective mechanisms, with a particular focus on photosynthesis control and its role in the ph-dependent control of plastoquinol (pqh2) oxidation at the qo-site of the cyt b6f complex, which | regulates | the overall rate of the intersystem electron transport.
+we are perhaps somewhat more cognizant of the transport of correctly folded and processed proteins, however the cell | is_a | lso tasked with dealing with proteins that have not obtained a transport-competent state, become damaged in situ, or have simply fulfilled their functional expectations.
+we need to emphasise here that the water splitting complex | is_a | ssociated
+with the ps ii, which itself is physically located on the inner side of the
+membrane of the thylakoid.
+wherever appropriate,
+the relation of the physiological processes to environment | is_a | lso
+discussed.
+will prinz received his phd in microbiology from harvard university and was a post-doc with tom rapoport, who | is_a | lso at harvard. will moved to the national institutes of health in bethesda, md in 2001, where he is currently a senior investigator.
+within the chloroplasts, the membranes are sites for the light reaction,
+while the chemosynthetic pathway | occurs_in | the stroma.
+‘kranz’ means ‘wreath’ and | is_a | reflection of the arrangement of cells.

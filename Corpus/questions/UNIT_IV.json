@@ -1,0 +1,26 @@
+[
+  {
+    "question_id": "UGCNET_2018_Q30",
+    "question": "Which tissue is primarily responsible for transpiration?",
+    "options": [
+      "Xylem",
+      "Phloem",
+      "Epidermis",
+      "Cortex"
+    ],
+    "correct_option": "Epidermis",
+    "difficulty": "Easy"
+  },
+  {
+    "question_id": "CSIR_2020_Q22",
+    "question": "Which enzyme catalyzes carbon fixation in plants?",
+    "options": [
+      "PEP carboxylase",
+      "RuBisCO",
+      "ATP synthase",
+      "Cytochrome oxidase"
+    ],
+    "correct_option": "RuBisCO",
+    "difficulty": "Moderate"
+  }
+]

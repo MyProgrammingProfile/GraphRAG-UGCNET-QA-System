@@ -1,0 +1,38 @@
+[
+  {
+    "question_id": "UGCNET_2017_Q12",
+    "question": "Which bond links monosaccharides in polysaccharides?",
+    "options": [
+      "Peptide bond",
+      "Glycosidic bond",
+      "Phosphodiester bond",
+      "Hydrogen bond"
+    ],
+    "correct_option": "Glycosidic bond",
+    "difficulty": "Easy"
+  },
+  {
+    "question_id": "CSIR_2019_Q08",
+    "question": "Which class of enzymes catalyses oxidation–reduction reactions?",
+    "options": [
+      "Transferases",
+      "Hydrolases",
+      "Oxidoreductases",
+      "Lyases"
+    ],
+    "correct_option": "Oxidoreductases",
+    "difficulty": "Moderate"
+  },
+  {
+    "question_id": "UGCNET_2020_Q21",
+    "question": "Which molecule acts as the universal energy currency of the cell?",
+    "options": [
+      "ADP",
+      "AMP",
+      "ATP",
+      "NADH"
+    ],
+    "correct_option": "ATP",
+    "difficulty": "Easy"
+  }
+]

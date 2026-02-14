@@ -1,0 +1,26 @@
+[
+  {
+    "question_id": "UGCNET_2019_Q33",
+    "question": "Which hormone regulates blood glucose level?",
+    "options": [
+      "Adrenaline",
+      "Insulin",
+      "Thyroxine",
+      "Cortisol"
+    ],
+    "correct_option": "Insulin",
+    "difficulty": "Easy"
+  },
+  {
+    "question_id": "CSIR_2021_Q20",
+    "question": "Which part of nephron is responsible for maximum reabsorption?",
+    "options": [
+      "Loop of Henle",
+      "Distal convoluted tubule",
+      "Proximal convoluted tubule",
+      "Collecting duct"
+    ],
+    "correct_option": "Proximal convoluted tubule",
+    "difficulty": "Moderate"
+  }
+]

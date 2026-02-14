@@ -1,0 +1,1151 @@
+10.1091/mbc.5.2.147
+2000;6(4):839–849
+23.Lambert S
+43.Latif C
+53.Carvajal
+53BP1
+55.Carvajal
+5–8
+APC
+APC-bound molecules
+APC-mediated
+APC/C
+ATM
+ATR
+Abu-Shumays R
+Acknowledgments
+Activated
+Activated p53
+Adv Second Messenger
+Anand S
+Anaphase-Promoting Complex
+Ataxia Telangiectasia
+Atr
+Aurora
+BMC
+BRCT-domain mediator proteins
+Barbacid
+Bartek J
+Bartucci M
+Berthelot-Grosjean
+Bignell CR
+Biochimie
+Bioessays
+Biol
+Biol
+Abstract
+Cell cycle checkpoints
+Biol Cell
+Blasina A
+Boddy
+Bradley A
+Brandl
+Breitkreutz BJ
+Bub1R
+Budding
+Byun TS
+C-terminal FHA
+CDK
+CDK activity
+CDK control
+CDKs
+CKI
+CKIs
+CSF
+CSH
+Campbell SD
+Cancer Cell
+Cancer Treat
+Carattini-Rivera S
+Carpenter PB
+Carr A
+Carr AM
+Cdc2
+Cdc2-cyclin B complex
+Cdc20
+Cdc20 activity
+Cdc20 under
+Cdc25
+Cdc25 activity
+Cdc25C
+Cdc6
+Cdc7
+Cdh1
+Cdr1-Cdr2-Wee1-Cdc2
+Cds1
+Cds1 kinase defines
+Cds1/Chk2
+Cdt1
+Cell
+Cell Biol
+Cell Cycle
+Cell Cycle Regulation
+Cell Death
+Cell Div
+Cell Size
+Cell cycle
+Cell size
+Chaix D
+Checkpoint Dysfunction
+Checkpoint responses
+Checkpoints
+Checkpoints
+Kevin J Barnum
+Chi A
+Chk1
+Chk1-deficient tumour cells
+Chk1-dependent G2
+Chk2
+Christensen
+Christopolous H
+Chromosome loss
+Cimprich KA
+Clair S
+Clarke AR
+Claspin
+Cln3
+Cole RW
+Complexes
+Control
+Cortez D
+Crit Rev Biochem
+Cuddihy
+Cyclin-binding
+Cyclosome
+Cytostatic Factor
+D. Fission yeast chk1 protein kinase
+D. Saccharomyces cerevisiae
+D. mik1
+DDK
+DNA
+DNA Damage
+DNA breaks
+DNA complexes
+DNA damage
+DNA damage checkpoint
+DNA damage checkpoint arrest
+DNA damage checkpoint genes
+DNA damage checkpoint pathway
+DNA damage checkpoint radiosensitises
+DNA damage checkpoints
+DNA damage response
+DNA damage-dependent transcriptional repression
+DNA damage-induced
+DNA damage-induced transcription
+DNA double-strand breaks
+DNA integrity
+DNA repair
+DNA repair defects
+DNA replication
+DNA replication checkpoint kinase Cds1
+DNA replication checkpoint response
+DNA replication errors
+DNA synthesis
+DNA-PKcs
+DNA-dependent protein kinase
+DUN1
+DYRK-family kinase
+DaCosta A
+Davenport M
+Davey MJ
+Davey S
+Dbf4-dependent protein kinase
+De Maria R. Checkpoint kinase 1
+DeMayo F
+Dembski M
+Desai A.
+Determination
+Differ
+Differentiation
+Donehower LA
+Doubtless
+Drosophila
+Drosophila p53
+Drug News
+Dun1
+Dunphy
+Durocher
+D’Amours D
+E3 ubiquitin ligase
+E3 ubiquitin ligase Mdm2
+EMBO
+Early evidence
+Edwards RJ
+Elledge
+Elledge S.
+Elledge SJ
+Elzen
+Entry
+Erickson K
+FHA
+Falck J
+Fate
+Fisher D
+Forbes KC
+Forsburg SL
+Fotou E
+Friedberg E
+Front Biosci
+Furnari B
+Futcher AB
+G(2) DNA damage checkpoint
+G(2)/M DNA damage checkpoint
+G1 CDKs
+G1 cell
+G1 checkpoint
+G1 phase
+G2 arrest
+G2 cells
+G2 checkpoint pathways
+G2 nucleus
+G2 state
+G2-phase
+G2-phase DNA-damage checkpoint
+G2/M cell
+G2/M progression
+G2–M transition
+Gap phases
+Genes
+Genes Dev
+Genet
+Genome stability
+Gillespie DA
+Giono L
+Goldberg ML
+Google Scholar
+Google Scholar]
+Google Scholar]
+11.Weinert T
+Google Scholar]
+17.Hoyt MA
+Google Scholar]
+19.Lara-Gonzalez P
+Google Scholar]
+2.Mitchison JM
+Google Scholar]
+21.Grallert B
+Google Scholar]
+22.Errico A
+Google Scholar]
+26.Killander D
+Google Scholar]
+27.Killander D
+Google Scholar]
+28.Cross F. DAF1
+Google Scholar]
+3.Mitchison JM
+Google Scholar]
+30.Moreno S
+Google Scholar]
+31.Nurse P.
+Google Scholar]
+32.Jorgensen P
+Google Scholar]
+33.Martin SG
+Google Scholar]
+35.Al-Khodairy F
+Google Scholar]
+36.Al-Khodairy F
+Google Scholar]
+37.Enoch T
+Google Scholar]
+38.Enoch T
+Google Scholar]
+39.Wang B
+Google Scholar]
+40.Goldberg M
+Google Scholar]
+41.Stewart GS
+Google Scholar]
+42.Kumagai A
+Google Scholar]
+44.MacDougall CA
+Google Scholar]
+45.Lu X
+Google Scholar]
+48.Allen JB
+Google Scholar]
+52.Zhou Z
+Google Scholar]
+57.Nishitani H
+Google Scholar]
+59.Bailis
+Google Scholar]
+6.Johnson RT
+Google Scholar]
+60.Stead BE
+Google Scholar]
+63.Rhind N
+Google Scholar]
+67.Lundgren K
+Google Scholar]
+69.Moreno S
+Google Scholar]
+7.Johnson RT
+Google Scholar]
+71.O’Connell MJ
+Google Scholar]
+72.Wittmann T
+Google Scholar]
+77.Maugeri-Sacca M
+Google Scholar]
+78.Stathis A
+Google Scholar]
+82.Greenow
+Google Scholar]
+83.Smith J
+Google Scholar]
+84.Lam
+Google Scholar]
+85.Petermann E
+Google Scholar]
+86.Zachos G
+Google Scholar]
+87.Kops
+Griffiths DJF
+Guardian
+Guntuku S
+Hamard PJ
+Hartwell
+Hartwell L.
+HeLa
+Hogg A
+Hsiao J
+Human Disease
+Hunt DF
+Hunter T
+Hunter T. Never say
+Hyman A
+Identification
+Inhibition
+Jeggo PA
+Johnson
+Johnson RT
+Jones RH
+K.J.B.
+Kelly TJ
+Keywords
+Kirschner M
+Kosoy A
+Krien MJ
+Ku70–Ku80 complex
+Laboratory Press
+Larue L
+Layered
+Lehman AR
+License information
+Liu Q
+Liu WJ
+Luche DD
+Luo G
+Lygerou Z. DNA
+M phase
+M-phase
+M. Cell cycle kinases
+M. Polar
+M. Systematic
+M.J.O.
+MCM
+MDC1
+MPF
+MRN
+Mammalian
+Manfredi JJ
+Matsuoka S
+Mattia M
+Maturation-Promoting Factor
+Maya-Mendoza A
+Mayeux A
+McGowan CH
+Mcm2
+Mec1 adaptor
+Mechanisms
+Mediator
+Methods
+Mik1
+Minichromosome maintenance
+Mitchison
+Mitosis
+Mitotic Arrest Deficient
+Mitotic Spindle Checkpoint
+Mitotic checkpoint control
+Mol Cells
+Monitoring DNA
+Moreno S
+Mre11-Rad50-Nbs1
+Murray AW
+Murray JM
+Myung
+N-terminal
+N-terminal phospho-S/T-binding Forkhead-Associated (
+NIH
+NIMA-related (Nek) kinases
+NIMA-related protein kinases
+Nannenga B
+Nature
+Nishikawa JL
+Nurse
+Nurse P
+Ohi MD
+Oncogene
+Opin Cell
+Osman F
+O’Connell MJ
+P. A
+P. Cdc2
+P. Cdc25
+P. Cold Spring
+P. Fission yeast genes
+P. Growth
+P. Regulation
+P. Temporal order
+P. p65
+PCNA-related clamp
+PKA
+PMC
+PMC free article
+PMCID
+PP1
+PP1-mediated
+PPM1D
+Padi A
+Paoletti A
+Pappin D
+Pds1p
+Perspect
+Phalle BS
+Physiol
+Pigment Cell Melanoma
+Piwnica-Worms H
+Polo
+Pom1
+PubMed
+RAD9 gene
+RNA
+RPA
+RPA-coated DNA
+Rad3-Related
+Rad53
+Rad53 kinase
+Rad9
+Rahman D
+Rainey MD
+Rao
+Rao PN
+Recovery
+References
+1.Mitchison JM
+Regulation
+Replication
+Replication Factor C
+Replication Protein A
+Replication stress
+Resisting arrest
+Ribosomal mass
+Roberts
+Rosen JM
+Rum1
+Russell
+S phase
+S-phase
+S-phase-specific activation
+S. cerevisiae
+S. pombe
+S.cerevisiae genes
+SAD1/Rad53 protein kinase
+Saccharomyces cerevisiae
+Sandre MK
+Schizosaccharomyces pombe
+Sci U S A. 1997;94(26):14361–14366
+Science
+Sheldrick KS
+Siede W
+Silverman L
+Start
+Stern DF
+Stucki M
+Sullivan W.
+Symp Quant Biol
+Synthesis
+S–M Dependency
+S–M dependency
+T32-CA078207
+TOR
+Tamai K
+Taylor AM
+Taylor SS
+Tokiwa G
+Tonnessen C
+Totis L
+Tyers
+Van C
+Varmeh-Ziaie S
+WHI1
+Walworth N
+Walworth N, Carr AM
+Walworth NC
+Wang B
+Weaver BA
+Wee1
+Wee1-like protein kinase
+Weinert
+Westhorpe FG
+Woollard A
+Wu Z
+Xenopus egg extracts
+Yang F
+Zachos G
+Zetterberg A. A
+Zetterberg A. Quantitative
+Zhou Z
+abasic sites
+abrogates
+absence
+abundance
+accessory proteins
+accumulation
+accurate
+achilles
+activated
+activating
+activation
+active
+active configuration
+active kinases
+activity
+affected
+age
+aligned
+alternative
+amount
+anaphase
+anaphase inhibitor
+anaphase transition
+ancestry
+aneuploid karyotypes
+aneuploidy
+animal species
+anticancer therapeutics
+anticancer therapy
+apoptosis
+article
+articles
+associated proteins
+associated with
+attachment
+attrition
+autophosphorylation
+average
+axis
+begun
+benomyl
+bi-oriented
+binding
+binding site
+biochemically
+biosynthetic material
+blockade
+blockades
+blocked
+blocks
+bottleneck
+bound
+budding
+bypassed
+cancer
+cancer cells
+cancer etiology
+cancers
+carcinogens
+case
+cases
+catalytic subunit
+catalytic subunits
+catalyzed
+cdc18
+cdc2
+cdc25C promoter
+cds1
+cell
+cell cycle
+cell cycle arrest
+cell cycle arrest function
+cell cycle checkpoint pathways
+cell cycle control
+cell cycle defect
+cell cycle delay
+cell cycle dependencies
+cell cycle events
+cell cycle progression
+cell cycle reprogramming
+cell cycle response
+cell cycle transition
+cell cycling
+cell death
+cell division
+cell fate
+cell fate decisions
+cell fates
+cell fusion
+cell fusion experiments
+cell geometry
+cell length
+cell lengths
+cell lines
+cell mass
+cell size
+cell types
+cells
+cells devoid
+cells obtain
+cellular components
+cellular indicator
+central machines
+centrosomal
+characterisation
+checkpoint
+checkpoint activation
+checkpoint arrest
+checkpoint components
+checkpoint dysfunction
+checkpoint gene
+checkpoint genes
+checkpoint kinase Chk1
+checkpoint kinases Cds1
+checkpoint pathway
+checkpoint pathways
+checkpoint proteins
+checkpoint response
+checkpoint signaling
+checkpoints
+chemical compounds
+chk1
+chk1/rad27
+chromatid
+chromosomal fragments
+chromosome damage
+chromosome formation
+chromosome segregation
+chromosomes
+cleave cohesin complexes
+clinic
+cognate
+cohesin protease
+collaborators
+colleagues
+comments
+commitment
+comparatively
+compensation
+complete
+completion
+complex
+complexity
+components
+concepts
+conditional
+conditions
+consequence of
+consequences
+conserved
+constitutive
+contents
+control
+control alternative
+controlled
+controlling
+controls
+cooperate
+coordination
+correction
+couple cell
+coupling mitosis
+cousin
+cousins
+critical
+cycle time
+cyclic
+cyclin Cln3
+cyclin homolog
+cyclin subunits
+cyclin-dependent kinase inhibitor
+cyclin-dependent kinases
+cycling
+cycling cells
+cylinder
+cytochemical
+cytochemical studies
+dNTP
+dNTPs
+damage checkpoints
+damage-inducible apoptosis
+damage-sensitive mutants
+daughter cell
+daughter cells
+daughter nuclei
+death
+decisions
+decreased
+defect
+defective
+defects
+deficiency
+degradation
+delay
+delay exit
+dependency
+dephosphorylates
+dephosphorylation
+depletion
+detection
+determinant
+development
+disassociates
+discrete
+discussion
+disease
+dissection
+distribution
+diversity
+division
+division program
+domain
+doubled
+downregulation
+dynamic
+dynamic assembly
+dysfunction
+early
+early embryogenesis
+effector kinase
+effector kinases
+efficient
+elements
+else cells
+ends
+enzyme
+epidermal
+essential
+essential kinase
+eukaryotes
+events
+ever-growing arsenal
+evolutionary complexity
+excess
+exerts
+existent
+experimental tools
+experimentally
+explanation
+explanations
+expression
+extensively
+extrinsic
+face
+fates
+feed-forward signalers
+fibroblasts
+fidelity
+fire
+firing
+fission yeast
+fission yeast Schizosaccharomyces pombe
+fission yeast cells
+fly
+force
+fork
+fork barriers
+fork collapse
+fork progression
+formation
+fragmented
+function
+functioning
+functions
+gain
+gene
+generation time
+genes
+genetic
+genetic defect
+genetic screens
+genome
+genome instability
+genome rearrangements
+genome stability
+genomic DNA
+global rates
+goal
+governs
+gradients
+grapes gene
+grows
+growth
+growth phases
+growth signals
+halts cell cycle
+heightened
+helicase
+higher
+history
+human
+human cancers
+human cells
+humans
+hydroxyurea treatment
+hypothesis
+identical
+identification
+identified
+impact
+in vitro
+in vivo
+inactive
+inactive state
+inactivity
+increase
+increased
+increases
+induce
+induced
+inducer
+induction
+influence
+inhibited
+inhibition
+inhibitors
+inhibitory proteins
+inhibitory tyrosine
+inhibits
+initiates
+initiation
+integrate
+integrity
+interacting protein
+interacting proteins
+intercellular
+intermediate
+intermediates
+interphase
+interphase growth
+interphase node
+interphase nuclei
+intestinal
+intestine
+intra-S checkpoint
+intra-S-phase DNA damage checkpoint
+intra-S-phase checkpoint
+intrinsic
+investigation
+ionizing radiation
+kill cells
+kinase
+kinase domain
+kinases
+kinetics
+kinetochore
+kinetochores
+knowledge
+late prophase
+lesion
+lesion-specific responses
+lesions
+lessons
+lethal
+lethal mitoses
+level
+levels
+ligase
+localizes
+location
+loss
+mammalian
+mammalian cells
+mammals
+man
+manifests
+mass
+mass content
+maturation
+measures
+mechanical control
+mechanism
+mechanisms
+mediates
+mediator
+mediators
+melanocytes
+merotelic
+metabolism
+metaphase
+metaphase plate
+microtubule function
+microtubule inhibitors
+microtubules
+mitoses
+mitosis
+mitotic
+mitotic apparatus
+mitotic arrest
+mitotic catastrophe
+mitotic cells
+mitotic checkpoint
+mitotic checkpoint complex
+mitotic checkpoint kinase Bub1
+mitotic control
+mitotic cyclins
+mitotic cyclins bypass mitosis
+mitotic death
+mitotic entry
+mitotic progression
+mitotic spindle
+modifications
+molar
+molecular details
+molecular dissection
+molecular level
+moniker
+monitoring
+monomeric
+motor proteins
+motors
+mouse
+multicellular organisms
+multiple
+multiple cell cycle checkpoints
+murine
+mutagenic bypass polymerases
+mutant gene
+mutations
+nascent strand
+negatively
+normal
+normal development
+nuclei
+nutrient
+nutritional status
+observations
+occupied
+once cyclin
+oncogene activation
+oncogene overexpression
+oocyte
+oocytes
+order
+organisms
+organization
+organize
+origin
+origin firing
+origins
+oscillations
+outcomes
+overlap
+p21
+p34 cdc2/mitotic B cyclin complex
+p53
+p53 loss
+p53-independent crypt
+p80cdc25 mitotic
+passage
+pathway
+pathways
+periods
+persistent
+phases
+phenomena
+phenotype
+pheromone arrest
+phosphatase
+phosphatase cdc25
+phosphate transfer
+phosphorylated
+phosphorylates
+phosphorylation
+physical
+physiological
+picture
+plethora
+ploidy
+pole
+poles
+polymerase
+polymerases
+position
+post-replication repair
+post-replication repair pathways
+post-replicative lesions
+posttranslational
+premature chromosome condensation
+prepare
+prevent
+primer
+prior
+process
+progress
+progression
+proliferation
+prolonged
+protection
+protein
+protein kinase
+protein levels
+protein translation
+proteins
+protein–
+publisher's
+quantitative
+rare
+rates
+rearrangement
+recombination
+recombination proteins
+recovery
+recruitment
+reduced
+region
+regulate
+regulates
+regulating
+regulating organ
+regulation
+regulator
+regulator securin
+regulatory events
+relationship
+released
+repair
+repair pathways
+repaired chromosomes
+replicate
+replicated
+replicating
+replication
+replication fork protection
+replication fork stability
+replisome
+requirement
+response
+restored
+result
+resume
+ribonucleotide reductase
+risk
+road
+rum1
+s-phase
+safeguard
+securin
+segregated
+segregation
+seminal studies
+sending
+senescence
+separase
+separate
+serine-15
+serine/threonine protein kinases
+severity
+shape
+signaling pathway
+signaling pathways
+signaling responses
+signals
+signals making
+single cells
+sister chromatids
+sites
+situations
+size
+small
+small daughter cells
+solid tumors
+somatic cells
+source
+sources
+spatial
+speaking
+species
+speed
+spindle
+spindle assembly
+spindle checkpoint
+spindle checkpoint functions
+spindle checkpoint genes
+spindle checkpoint protein Mad2
+spindle checkpoint shares
+spindle microtubules
+spindles
+stability
+stabilization
+stabilizes
+stage
+state
+stimulating
+stranded
+stress
+structural
+structural biology
+structure
+studies
+subpathway
+substrate
+substrates
+subunits
+sunlight
+suppression
+surveillance mechanisms
+survival defects
+survive
+switching
+synthesis
+system
+systemic
+systems
+target
+targeting
+targets
+technologies
+telomeres
+template
+templates
+tension
+tethers
+tetramer
+therapeutic regimen
+therapies
+tissue homeostasis
+tissues
+transcription factor p53
+transcriptional responses
+translation
+translational activity
+translational sizer
+translational sizers
+treat
+triggered
+tumor
+tumor suppressor
+tumor suppressor loss
+tumour suppressor p53
+type 1 phosphatases
+tyrosine
+ubiquitin-dependent proteolysis
+ubiquitination
+unclear
+uncoupling
+unique
+up-regulated
+upstream
+upstream signaling events
+variant
+variation
+version
+vertebrate
+viability
+vulnerable time
+whole chromosome loss
+yeast
+yeast models
+yeasts
+–life

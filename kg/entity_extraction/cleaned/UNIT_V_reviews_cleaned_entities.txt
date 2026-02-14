@@ -1,0 +1,928 @@
+(a)
+aberrant
+absent
+accelerated
+actin
+actin proteins
+action
+activate
+activated
+activated kinase
+activates
+activating
+activation
+active cystines
+active profile
+acute
+acute insulin stimulation
+adequate
+adipocyte
+adipocytes
+adipogenesis
+adipose tissue
+adiposity
+administration
+adults
+adverse effects
+affecting
+age
+age-dependent vascular dysfunction
+agonists
+akt
+akt (
+akt-reduced
+alzheimer’s disease
+ameliorating
+amino acids
+amnestic
+amp-activated protein kinase
+ampk
+amyloid peptide
+amyloid precursor protein
+animal models
+animal studies
+animals
+apoptosis
+app
+apple-shaped
+approval
+aromatase
+associated with
+atherosclerosis
+atp
+attenuated
+atypical protein kinase c λ
+author information
+autoimmune disease
+autophagic degradation pathway
+autophagy
+availability to
+balanced
+bdnf
+benefits
+binding
+binds
+biochemical processes
+biogenesis
+biological
+biological sex
+biotechnology-assisted synthesis
+bladder
+bloating abdomen
+blood circulatory system
+blood sugar
+body fat
+body weight
+boosts
+brain
+brain functions
+brain responds
+brain-derived neurotrophic factor
+brains
+breakdown
+breast cancer
+british physiologist
+brown
+brown adipose tissue
+c-jun
+camp response element-binding protein
+camp-induced
+camp-pka
+camp-pka-creb pathway
+cancer cells
+canonical
+canonical insulin signaling
+canonical insulin signaling pathways
+cardiac conditions
+cardiac insulin
+cardiometabolic
+cardiomyocyte
+cardiovascular
+cardiovascular disease
+cardiovascular diseases
+catalytic subunit
+catalyzes
+cause
+cbp
+cell plasticity
+cells
+cellular
+cellular metabolism
+cellular remodeling
+cerebral bioenergetics
+cerna
+characterization
+characterized
+cholesterol
+clearance
+clinical application
+clinical cross-sectional study
+clinical research
+clinical study
+clinical treatments
+clinical trial
+clinical trials
+cognitive
+cognitive impairment
+combination
+comorbidities
+compared
+comparison
+compensatory
+complex
+constant
+contact with
+content
+contractile proteins
+control mice
+control system
+controlling
+controls
+convergence
+converges
+conversion
+coordinating
+creb
+creb-
+creb-binding protein
+critical mediators
+cross-talk
+cvd
+cvd-related
+cytokines
+cytoplasm
+cytosolic erα
+damaged
+de novo lipogenesis
+deacetylase activity
+deacetylates
+deacetylation
+deactivated
+deactivation
+deal
+decrease
+decreased
+decreases
+defense
+definition
+degeneration
+degradation
+degrees
+delayed
+delayed myoregeneration
+dendritic spine formation
+dephosphorylation
+depicts
+derangement
+derangements
+designing
+detrimental
+detrimental effects
+development
+diabetes
+diabetic
+diabetic cardiomyopathy
+diabetic muscle disease
+diacylglycerol acyltransferase inhibitor
+difference
+dimerization
+diminish
+disability
+discovered
+discovery
+disease
+disease status
+diseased state
+diseased striated muscle
+diseases
+distribution
+dmd
+dna binding
+dnl
+dopamine
+double-blind
+down-regulate akt
+down-regulate fission protein
+downstream
+downstream pathways
+downstream protein kinases
+drug administration
+drug efficacy
+drugs
+duchenne muscular dystrophy
+duration
+dynamics
+dysfunctional
+dysfunctional estrogen signaling
+dysregulated insulin
+dysregulation
+early
+early detection
+early stages
+effects
+efficacy
+elevated
+elimination
+encode
+endogenous
+endoplasmic-reticulum-associated protein degradation system
+endothelial
+endothelial-derived nitric oxide
+energy expenditure
+energy metabolism
+energy production
+energy sensor
+energy sensors
+enos
+enzyme
+epigenetic
+epigenetic programming
+ere
+erk
+ernest
+ers
+erα
+erα cascade
+erα controlled
+erα function
+erα protein
+erα signaling
+erα transcriptional regulation
+erα-
+erα/erβ
+erβ
+essential
+essential signaling pathways
+estradiol
+estradiol-er signaling
+estrogen
+estrogen administration
+estrogen deficiency
+estrogen levels
+estrogen prevents
+estrogen receptor
+estrogen receptors
+estrogen response elements
+estrogen restored
+estrogen secretion
+estrogen sensitive
+estrogen signaling
+estrogen signaling cascades
+estrogen signaling converge
+estrogen signaling fine-tunes protein
+estrogen signaling pathways
+estrogen synthesis
+estrogen therapy
+estrogen treatment
+estrogen-er signaling
+estrogen-erα
+estrogenic hormonal activity
+estrogens
+estrogen–er
+estrone
+ethnicity
+evaluate
+evidence
+exercise
+experimental agents
+experimental models
+experimental subjects
+expression
+expressions
+extragonadal tissues
+factor
+factors
+fasting
+fasting cycle
+fatty acids
+fatty liver disease
+feasibility
+feeding
+feeding state
+feeding status
+feeding-fasting cycle
+female
+female brain
+female mice
+female reproductive system
+female sex hormones
+females
+fibroblast growth factor
+figure
+finding
+findings
+fine-tune glucose mentalism
+fine-tune whole body function
+fission
+food
+food aversion
+food intake
+force
+forkhead box o
+formation
+foxo
+foxos
+foxos activity
+foxos-independent
+foxos-mediated
+foxos-mediated tfam
+foxos-sestrin-mtor cascade
+foxos-sestrins-mtor cascade
+function
+functional
+functions
+fusion
+fusion proteins
+g-coupled protein
+gai
+gender
+gender difference
+genders
+gene
+gene expression
+gene transcription
+general neuronal health
+genetic
+genetic polymorphisms
+genetically predisposed
+gip
+gip receptor
+glands
+global knockout erα
+global level
+glucagon-to-insulin ratio
+glucocorticoid receptor
+glucokinase
+gluconeogenesis
+gluconeogenic genes
+glucose
+glucose disposal ability
+glucose homeostasis
+glucose intolerance
+glucose metabolism
+glucose production
+glucose tolerance
+glucose uptake
+glucose uptake/metabolism
+glucose utilization
+glucose-dependent insulinotropic polypeptide
+glucose-stimulated/high-insulin lipogenesis
+glut
+glycemic control
+glycogen production
+glycogen synthesis
+glycogenolysis
+glycolysis
+glycolytic extensor digitorum longus muscle
+glycosylated
+glycosylation
+good
+govern gene
+gper
+gper agonist
+group
+group i
+hallmarks
+health
+healthy
+heart
+heat shock protein
+hepatic
+hepatic erα
+hepatic gluconeogenesis
+hepatic glucose
+hepatic steatosis
+hfd
+hfd-induced
+high fat
+high fat diet
+high-protein-turnover state
+hippocampal
+hippocampus
+hmdcs
+homeostasis
+hormonal
+hormonal regulation
+hormonal signaling
+hormonal signaling pathways
+hormone
+hormone discovery
+hormone replacement treatment
+hormone research
+hormones
+human
+humans
+hyperglycemia
+hypoestrogenaemia
+ihtg
+immobilization
+immune system destroys
+immunometabolic function
+impaired
+impairs
+improvement
+improves
+inactivating
+increase
+increased
+increases
+independent
+individuals
+induce
+induced
+induces
+inflammation
+influence
+influenced
+inhibit
+inhibited
+inhibiting
+inhibitor
+inhibits
+injured
+insensitive tissue
+insulin
+insulin administration
+insulin administration device
+insulin analogues
+insulin concentrations
+insulin deficiency
+insulin dysfunction
+insulin dysregulation
+insulin exposure
+insulin function
+insulin level
+insulin plus
+insulin receptor
+insulin resistance
+insulin secretion
+insulin sensitivity
+insulin signaling
+insulin signaling pathway
+insulin signaling pathways
+insulin therapy
+insulin treatment
+insulin-producing β cells
+insulin-sensitive tissues
+insulin-stimulated
+insulin-stimulated glucose
+insulin-stimulated muscle
+integrity
+interact
+interaction
+interferes
+internal secretion
+interplays
+intertwined
+intervention
+intrahepatic triglyceride
+intramyocellular diacylglycerol
+intranasal insulin therapy
+introduction
+investigate
+investigation
+investigations
+involvement
+irs
+irs promotor
+irs-mediated
+irss
+isoforms
+japanese
+jnk
+joint regulation
+ketohexokinase inhibitor
+ketone bodies
+keywords
+knockout
+knockout impaired
+knowledge
+lack
+learned
+lessons
+level
+levels
+license information
+ligand
+limitations
+lipid decomposition
+lipid metabolism
+lipid synthesis
+lipogenesis
+lipogenic gene
+lipogenic gene program
+lipolysis
+liver
+liver confers
+liver disease
+liver diseases
+liver intermediary metabolism
+liver lipid metabolism
+liver-specific
+lncrna
+lncrnas
+localization
+localized
+long non-coding rna
+loose stools
+loss
+low
+lower risk
+lowering
+ltkoirs
+lysine sites
+lysosomal protein
+lysosome systems
+macronutrient metabolism
+macronutrients
+macronutrients metabolism
+male
+male mice
+males
+mammalian
+management
+manipulation
+mapping
+mass
+mechanism
+mediates
+mediating protein kinase a
+mediators
+mek
+membrane erα
+membrane-initiated signal (miss) pathway
+membrane-trafficking
+memory
+men
+menopausal transition
+menopause
+meta-analysis
+metabolic
+metabolic activities
+metabolic disease
+metabolic diseases
+metabolic disorders
+metabolic regulation
+metabolic syndrome
+metabolically active
+metabolism
+mice
+mirabegron
+mitigating
+mitochondria
+mitochondrial
+mitochondrial biogenesis
+mitochondrial dna
+mitochondrial dynamic
+mitochondrial dynamics
+mitochondrial fatty acid oxidation
+mitochondrial fission
+mitochondrial function
+mitochondrial functions
+mitochondrial homeostasis
+mitochondrial metabolism
+mitochondrial quality
+mitochondrial regulation
+mitochondrial structure
+mitochondrial transcription factors
+mitochondrion
+mitogen-activated protein kinase
+mitophagy
+mobility limits
+modification
+modified
+modulates
+modulation
+molecular mechanism
+molecular pathways
+molecule
+morbidity
+mortality
+mounjaro (tirzepatide
+mouse
+mouse models
+mrna
+mtdna
+mtdna polymerase γ subunit
+mtor
+mtor signaling
+mtor-akt cascade
+muscle
+muscle atrophy
+muscle contractile
+muscle diseases
+muscle dysfunction
+muscle growth
+muscle injury
+muscle loss
+muscle mass
+muscle recovery
+muscle stiffness
+muscle strength
+muscles
+muscular dystrophy
+mutations
+myoblastic
+myokines
+myoregeneration
+myosin heavy chain and
+myosin heavy chain binding
+n-terminal kinase
+nafld
+negatively
+net protein gain
+neurodegeneration
+neurodegenerative diseases
+neuronal health
+neurons
+neuroprotective agent
+neurotransmitters
+nigrostriatal
+non-canonical
+non-gland cells
+nonalcoholic fatty liver disease
+nonreproductive tissue
+normal bmi
+normalized
+normalizing
+nuclear receptor
+nuclear translocalization
+nuclear translocation
+numerous
+nutrient
+nutrients
+nutritional
+obese
+obesity
+organelle
+outweighs protein
+ovariectomized
+ovariectomized conditions
+ovaries
+ovary
+overactive
+overexpression
+overfeeding
+overweight
+ovx
+oxidative metabolism
+oxidative stress
+pak
+palmitic acid
+palmitoylation
+pancreatic insulin secretion
+pancreatic β cells
+pancreatic β-cells
+parkinson’s disease
+pathological
+pathological status
+pathways
+patients
+pear-shaped body fat
+pepck
+peripheral
+pharmacological
+phenotype
+phosphoenolpyruvate carboxykinase
+phosphorates
+phosphorylates
+phosphorylating
+phosphorylation
+physical activity therapy
+physical exercise
+physically active
+physiological
+physiological condition
+physiological functions
+physiological homeostasis
+physiological secretion
+pka
+placenta
+plasma
+plasma membrane
+pmcid
+polymorphism
+polypeptide
+poor glycemic control
+post-transcriptionally suppress
+post-translational level
+postmenopausal
+postnatal
+postprandial
+potentiated
+pparα-pparδ agonist
+preclinical studies
+preclinical trials
+premenopausal
+premenopausal conditions
+premenopause
+presence
+preservation
+preserving
+preventing
+prevention
+primary intention-to-treat group
+primary site
+primes
+processes
+processing
+production
+progression
+prolonged
+prominent
+promote
+promoter
+promotes
+promoting
+proteasomal
+proteasome
+protection
+protective effects
+protects
+protein
+protein catabolism
+protein degradation
+protein homeostasis
+protein kinase a
+protein kinase b
+protein kinases
+protein misfolding
+protein stability
+protein synthesis
+protein synthesis pathways
+protein turnover
+proteins
+proteolysis
+proteostasis
+quality
+qualmishness
+raf proto-oncogene
+rapamycin
+rats
+recapitulate
+receptor
+receptor erα
+receptor mutations
+receptors
+receptors erα
+recruitment
+reduced
+reduction
+reductions
+redundant
+regions
+regulate
+regulates
+regulating energy
+regulation
+regulatory fashion
+regulatory light chain
+replication
+represses
+reproductive stage
+reproductive system
+research
+resensitize
+respiration
+response
+restored
+restraining mitophagy
+review
+rictor
+risk
+rna
+rodents
+routes
+safety
+sarcopenia
+satellite cell
+satellite cell function
+saturated
+saturated fat
+secondary sex
+secreted
+secretion
+section
+sensitive
+sensitivity
+serine/threonine-protein kinase
+sestrins
+sestrins-mtor signaling node
+sex
+sex difference
+sex hormone
+sex-dependent regulation
+sex-specific
+sexual hormone
+sexual hormones
+shed light
+short-term
+side effects
+signaling
+signaling cascades
+signaling events
+signaling pathway
+signaling pathways
+signals
+single molecule
+skeletal muscle
+skeletal muscle index
+slug
+smi
+snail
+specific
+src
+starling
+steatosis
+steroids
+stimulate
+stimulates
+strategy
+strength
+studies
+study
+stz
+subcutaneous adipose tissue
+subcutaneously administration
+subjects
+substrate
+sugar
+suppress
+suppressed
+suppresses
+suppressing
+suppression
+susceptible
+susceptive
+switches
+synaptic survival
+synthesis
+synthesized
+systemic
+systemic functions
+systemic insulin resistance
+t allele
+tab
+target
+target genes
+targeting
+tau
+tendency
+testing
+tfam
+therapeutic alternatives
+therapeutic inefficacy
+therapeutic options
+therapeutic strategies
+therapeutics
+thermogenesis
+time
+time-dependent effects
+tiny pool
+tissue
+tissue-specific
+tissues
+traditional
+traits
+transcription
+transcription factor
+transcription factors
+transcriptional
+transcriptional activity
+transcriptional processes
+transcriptional regulation
+translation
+translocation
+treat
+treated with
+treating
+treatment
+triglycerides
+tsc
+turnover
+tyrosine
+tyrosine sites
+ubiquitin
+underpins
+unsaturated fat
+up-regulate
+up-regulation
+upregulates
+urinary
+vascular function
+vascular homeostasis
+vasculoprotective molecule
+vasoreactivity
+ventromedial
+ventromedial hypothalamic nucleus
+visceral
+weight loss reduced
+white adipose tissue
+white adipose tissues
+whole-body
+women
+years
+young
+younger females
+β-cat/tcf
+• article

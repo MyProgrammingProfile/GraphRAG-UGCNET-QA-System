@@ -1,0 +1,26 @@
+[
+  {
+    "question_id": "UGCNET_2018_Q18",
+    "question": "Which organelle is known as the power house of the cell?",
+    "options": [
+      "Nucleus",
+      "Mitochondrion",
+      "Ribosome",
+      "Golgi apparatus"
+    ],
+    "correct_option": "Mitochondrion",
+    "difficulty": "Easy"
+  },
+  {
+    "question_id": "CSIR_2020_Q05",
+    "question": "Which model explains the structure of the cell membrane?",
+    "options": [
+      "Sandwich model",
+      "Fluid mosaic model",
+      "Unit membrane model",
+      "Micellar model"
+    ],
+    "correct_option": "Fluid mosaic model",
+    "difficulty": "Moderate"
+  }
+]
